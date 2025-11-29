@@ -1,0 +1,11 @@
+format: jb-book
+root: intro
+chapters:
+  - file: chapter-01-from-neurons-to-networks-understanding-the-buildin
+  - file: chapter-02-training-your-first-neural-network-the-learning-pr
+  - file: chapter-03-deep-dive-into-deep-networks-multi-layer-architect
+  - file: chapter-04-convolutional-neural-networks-seeing-through-ai-ey
+  - file: chapter-05-recurrent-neural-networks-understanding-sequences-
+  - file: chapter-06-optimization-and-regularization-making-networks-le
+  - file: chapter-07-popular-architectures-standing-on-the-shoulders-of
+  - file: chapter-08-real-world-applications-putting-it-all-together
