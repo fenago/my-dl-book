@@ -1,0 +1,25 @@
+# MyST configuration for Introduction to Deep Learning 
+version: 1
+
+project:
+  title: "Introduction to Deep Learning "
+  description: "An introduction book to deep learning for college sophomores with a decent high school math background and knowledge of Python. The book should be comprehensive. There should be some light math, and also there should be definitely the Python code. "
+  authors:
+    - name: "Dr. Ernesto Lee "
+  jupyter:
+    lite: true
+
+
+
+site:
+  template: book-theme
+  title: "Introduction to Deep Learning "
+  nav:
+    - file: chapters/chapter-1
+    - file: chapters/chapter-2
+    - file: chapters/chapter-3
+    - file: chapters/chapter-4
+    - file: chapters/chapter-5
+    - file: chapters/chapter-6
+    - file: chapters/chapter-7
+    - file: chapters/chapter-8
